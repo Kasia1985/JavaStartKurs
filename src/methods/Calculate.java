@@ -1,0 +1,23 @@
+package methods;
+
+public class Calculate {
+    public static void main(String[] args) {
+
+        Calculator calc = new Calculator();
+
+        System.out.println(calc.add(5, 12.5));
+        System.out.println(calc.substract(5, 12.5));
+        System.out.println(calc.multiply(5, 12.5));
+        System.out.println(calc.divide(5, 12.5));
+
+        /* javastart solution
+        double a = 15;
+		double b = 2.5;
+		System.out.println("A = " + a + ", B = " + b);
+		System.out.println("A+B = " + calc.add(a, b));
+		System.out.println("A-B = " + calc.subtract(a, b));
+		System.out.println("A*B = " + calc.multiply(a, b));
+		System.out.println("A/B = " + calc.divide(a, b));
+         */
+    }
+}
