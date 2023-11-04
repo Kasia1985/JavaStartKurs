@@ -8,5 +8,10 @@ public class DiceTest {
         dice1.printInfo();
         dice1.roll();
         dice1.printInfo();
+
+        System.out.println();
+
+        Dice dice2 = new Dice();  //Konstructor already with roll method
+        dice2.printInfo();
     }
 }
