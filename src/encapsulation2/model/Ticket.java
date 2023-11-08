@@ -38,6 +38,6 @@ public class Ticket {
     public String getInfo(){
         return ticketId + " | " + movie.getMovieInfo() + " | " + client.getFullName();
     }
-
+    
 
 }
