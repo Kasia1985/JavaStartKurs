@@ -1,4 +1,4 @@
-package mathOperators;
+package mathOperators.simpleCalculator;
 
 public class Calculator {
 

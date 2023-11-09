@@ -1,4 +1,4 @@
-package mathOperators;
+package mathOperators.simpleCalculator;
 
 public class CalcTest {
     public static void main(String[] args) {
