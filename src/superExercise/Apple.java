@@ -6,7 +6,7 @@ public class Apple extends Fruit{
     private String variety;
 
 
-    public Apple(int weight, String variety) {
+    public Apple( String variety, int weight) {
         super(TYPE, weight);
         this.variety = variety;
     }
