@@ -1,4 +1,4 @@
-package abstractExercises;
+package abstractExercises.car;
 
 abstract class Vehicle {
     private int speed;
