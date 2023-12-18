@@ -1,4 +1,4 @@
-package factorial;
+package recursion;
 
 public class Product {
     private String name;

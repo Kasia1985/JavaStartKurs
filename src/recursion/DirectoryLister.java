@@ -1,4 +1,4 @@
-package factorial;
+package recursion;
 import java.io.File;
 
 public class DirectoryLister {

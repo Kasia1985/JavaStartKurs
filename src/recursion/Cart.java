@@ -1,4 +1,4 @@
-package factorial;
+package recursion;
 
 public class Cart {
     private static final int MAX_PRODUCTS = 10;

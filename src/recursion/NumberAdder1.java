@@ -1,4 +1,4 @@
-package factorial;
+package recursion;
 
 public class NumberAdder1 {
     public static void main(String[] args) {
