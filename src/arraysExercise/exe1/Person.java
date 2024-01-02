@@ -1,4 +1,4 @@
-package arraysExercise;
+package arraysExercise.exe1;
 
 import java.util.Objects;
 

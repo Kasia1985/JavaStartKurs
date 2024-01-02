@@ -1,4 +1,4 @@
-package arraysExercise;
+package arraysExercise.exe1;
 
 public class DatabaseTest {
     public static void main(String[] args) {
