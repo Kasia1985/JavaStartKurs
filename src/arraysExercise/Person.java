@@ -1,4 +1,4 @@
-package genericsExercise;
+package arraysExercise;
 
 import java.util.Objects;
 
