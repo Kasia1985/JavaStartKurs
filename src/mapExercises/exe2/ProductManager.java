@@ -7,7 +7,6 @@ import java.util.Set;
 import java.util.TreeSet;
 
 public class ProductManager {
-
     public static void main(String[] args) {
         try {
             Map<String, TreeSet<Product>> productsMap = ProductImporter.readFile("products.csv");
@@ -17,7 +16,6 @@ public class ProductManager {
             System.err.println("No file with products data");
         }
     }
-
 
     private static String readCategoryFromUser() {
         Scanner sc = new Scanner(System.in);
@@ -36,7 +34,6 @@ public class ProductManager {
         }
     }
 
-
     private static void printAvgPrice(Set<Product> products) {
         double sumPrice = 0;
         for (Product product : products) {
@@ -54,6 +51,5 @@ public class ProductManager {
 
     private static void printCheapestAndExpensiveProduct(TreeSet<Product> products) {
         System.out.println("The cheapest product " + products.first());
-
     }
 }
