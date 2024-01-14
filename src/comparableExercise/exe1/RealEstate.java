@@ -1,4 +1,4 @@
-package comparableExercise.realEstate;
+package comparableExercise.exe1;
 
 public class RealEstate implements Comparable<RealEstate>{
     private String city;

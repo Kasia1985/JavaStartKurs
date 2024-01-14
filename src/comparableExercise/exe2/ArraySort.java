@@ -1,4 +1,4 @@
-package comparableExercise;
+package comparableExercise.exe2;
 
 import java.util.Arrays;
 import java.util.Comparator;

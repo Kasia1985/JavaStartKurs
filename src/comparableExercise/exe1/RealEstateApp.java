@@ -1,4 +1,4 @@
-package comparableExercise.realEstate;
+package comparableExercise.exe1;
 
 import java.io.FileNotFoundException;
 import java.util.Arrays;
